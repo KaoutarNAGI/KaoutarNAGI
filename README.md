@@ -4,13 +4,6 @@ Mon objectif : évoluer vers un poste d'**administratrice systèmes & réseaux**
 
 ---
 
-## 💫 À propos de moi
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kaoutar1301.kaoutar1301)  
-Passionnée par l'**administration systèmes & réseaux**, la **sécurité**, et l'**automatisation**.  
-Je partage ici mes projets, scripts et expériences de lab réseau.
-
----
-
 ## 🔎 Ce que je fais aujourd'hui
 - Administration Linux (Ubuntu, Debian, CentOS)
 - Gestion de serveurs Windows Server (AD, GPO)
@@ -28,15 +21,16 @@ Je partage ici mes projets, scripts et expériences de lab réseau.
 ---
 
 ## 📁 Projets en vedette
-- **serveur-web-secure** — déploiement d’un serveur Nginx sécurisé (HTTPS, Let's Encrypt)  
-- **linux-admin-scripts** — scripts d'automatisation (backup, création d'utilisateurs, monitoring)  
-- **network-home-lab** — topologie VLAN/DHCP, configurations et guides de laboratoire  
+- **serveur-web-secure** — déploiement d’un serveur Nginx sécurisé (HTTPS, Let's Encrypt) — `README` détaillé.  
+- **linux-admin-scripts** — scripts d'automatisation (backup, création d'utilisateurs, monitoring).  
+- **network-home-lab** — topologie VLAN/DHCP, configurations et guides de laboratoire.
 
 > Voir mes projets épinglés ci-dessous 👇
 
 ---
 
 ## 🛠️ Stack / outils
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
@@ -50,15 +44,10 @@ Je partage ici mes projets, scripts et expériences de lab réseau.
 ---
 
 ## 📫 Contact
+
 [![Email](https://img.shields.io/badge/Email-kaoutar1301@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaoutar1301@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaoutar%20NAGI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)
 [![CV](https://img.shields.io/badge/CV-PDF-EA4335?style=for-the-badge&logo=adobeacrobat&logoColor=white)](lien_vers_ton_cv.pdf)
-
----
-
-## 📊 GitHub Stats
-![Kaoutar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaoutar1301&show_icons=true&hide_border=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoutar1301&layout=compact&theme=radical)
 
 ---
 
