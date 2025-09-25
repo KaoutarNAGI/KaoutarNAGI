@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Kaoutar NAGI — Technicienne Système & Réseau
+Je suis technicienne systèmes & réseaux, passionnée par l'administration des infrastructures, la sécurité et l'automatisation.  
+Mon objectif : évoluer vers un poste d'**administratrice systèmes & réseaux**.
 
-<!--
-**KaoutarNAGI/KaoutarNAGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔎 Ce que je fais aujourd'hui
+- Administration Linux (Ubuntu, Debian, CentOS)
+- Gestion de serveurs Windows Server (AD, GPO)
+- Configuration réseau (VLAN, DHCP, DNS, routage de base)
+- Virtualisation (VirtualBox, VMware), conteneurisation basique (Docker)
+- Automatisation avec Bash / PowerShell / Ansible
 
-Here are some ideas to get you started:
+## 🚀 Objectifs
+- Devenir administratrice systèmes & réseaux (production)
+- Automatiser les tâches d'exploitation et renforcer la sécurité des serveurs
+- Monter en compétence sur la supervision (Prometheus/Grafana) et Cloud (notions AWS/Azure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projets en vedette
+- **serveur-web-secure** — déploiement d’un serveur Nginx sécurisé (HTTPS, Let's Encrypt) — `README` détaillé.  
+- **linux-admin-scripts** — scripts d'automatisation (backup, création d'utilisateurs, monitoring).  
+- **network-home-lab** — topologie VLAN/DHCP, configurations et guides de laboratoire.
+
+> Voir mes projets épinglés ci-dessous 👇
+
+## 🛠️ Stack / outils
+Linux • Windows Server • Cisco (configuration de base) • Bash • PowerShell • Ansible • Docker • VirtualBox • Git/GitHub
+
+## 📫 Contact
+- ✉️ `kaoutar1301@gmail.com`  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/kaoutar-nagi-911491266/))  
+- 📄 CV : `lien_cv.pdf` 
+
+## 📌 Disponibilité
+Ouverte aux opportunités — stages / CDD / CDI — disponible à partir de : ``.
+
+
