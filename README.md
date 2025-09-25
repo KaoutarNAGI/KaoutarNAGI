@@ -26,10 +26,10 @@ Linux • Windows Server • Cisco (configuration de base) • Bash • PowerShe
 
 ## 📫 Contact
 - ✉️ `kaoutar1301@gmail.com`  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/kaoutar-nagi-911491266/))  
-- 📄 CV : `lien_cv.pdf` 
+- 🔗 [LinkedIn]
+- 📄 CV : 
 
 ## 📌 Disponibilité
-Ouverte aux opportunités — stages / CDD / CDI — disponible à partir de : ``.
+Ouverte aux opportunités — stages / CDD / CDI — disponible à partir de : 
 
 
