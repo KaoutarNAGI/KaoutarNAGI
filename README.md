@@ -15,7 +15,7 @@ Mon objectif : évoluer vers un poste d'**administratrice systèmes & réseaux**
 - Monter en compétence sur la supervision (Prometheus/Grafana) et Cloud (notions AWS/Azure)
 
 ## 📁 Projets en vedette
-- **serveur-web-secure** — déploiement d’un serveur Nginx sécurisé (HTTPS, Let's Encrypt) — `README` détaillé.  
+- **serveur-web-secure** — déploiement d’un serveur Nginx sécurisé (HTTPS, Let's Encrypt).  
 - **linux-admin-scripts** — scripts d'automatisation (backup, création d'utilisateurs, monitoring).  
 - **network-home-lab** — topologie VLAN/DHCP, configurations et guides de laboratoire.
 
